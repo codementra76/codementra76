@@ -107,7 +107,7 @@ Interested in our projects or want to learn more about what we build?
 
 * 🌐 Website: Coming Soon
 * 💼 LinkedIn: Coming Soon
-* 📧 Email: Add Your Official Business Email
+* 📧 Email: <a href=codementra76@gmail.com>click here</a>
 * 🐙 GitHub: Explore our repositories
 
 ---
