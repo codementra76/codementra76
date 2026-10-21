@@ -1,4 +1,4 @@
-# 🚀 <h1>Welcome to <i>CODEMENTRA</i></h1>
+# <h1>🚀 Welcome to <i>CODEMENTRA</i></h1>
 ### Building Practical Projects. Supporting Student Innovation.
 
 Welcome to the official GitHub organization of **[Your Startup Name]** — a platform dedicated to developing practical, industry-inspired academic projects for engineering students.
